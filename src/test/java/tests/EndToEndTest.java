@@ -24,6 +24,9 @@ public class EndToEndTest extends TestBase {
 	 * pom.xml->testng.xml->TestCase to be exectution(TestClass->extends TestBase-setup()->TestClass completed->TestBase- teardown - close down all browser instance
 	 */
 
+	
+	
+	//I am made this change 
 	LoginPage login;
 	HomePage home;
 	ConfirmationPage confirmation;
